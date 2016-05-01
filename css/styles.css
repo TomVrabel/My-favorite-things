@@ -21,3 +21,20 @@ em {
   font-style: italic;
   color: #25F55C;
 }
+
+.church {
+  color: #25F99A;
+  font-family: monospace;
+}
+
+.container {
+    width: 450px;
+}
+
+h3 {
+  line-height: 1px;
+}
+
+.break {
+  margin-bottom: 50px;
+}
